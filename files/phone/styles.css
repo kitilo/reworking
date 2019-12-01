@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:static;
-  left:auto;
+  position:relative;
+  left:-0px;
   width:360px;
-  margin-left:0;
-  margin-right:0;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 #base {
@@ -6469,7 +6469,7 @@
   width:120px;
   height:48px;
   background:inherit;
-  background-color:rgba(0, 77, 166, 0.298039215686275);
+  background-color:rgba(179, 202, 228, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -6508,7 +6508,7 @@
   width:24px;
   height:24px;
   background:inherit;
-  background-color:rgba(0, 77, 166, 0.298039215686275);
+  background-color:rgba(179, 202, 228, 1);
   border:none;
   border-radius:12px;
   -moz-box-shadow:none;
@@ -6541,7 +6541,7 @@
   width:24px;
   height:24px;
   background:inherit;
-  background-color:rgba(102, 204, 153, 0.298039215686275);
+  background-color:rgba(209, 240, 225, 1);
   border:none;
   border-radius:12px;
   -moz-box-shadow:none;
@@ -6574,7 +6574,7 @@
   width:120px;
   height:48px;
   background:inherit;
-  background-color:rgba(102, 204, 153, 0.298039215686275);
+  background-color:rgba(209, 240, 225, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -6645,7 +6645,7 @@
   width:40px;
   height:2px;
   background:inherit;
-  background-color:rgba(171, 195, 223, 1);
+  background-color:rgba(179, 202, 228, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -6677,7 +6677,7 @@
   width:40px;
   height:2px;
   background:inherit;
-  background-color:rgba(201, 233, 220, 1);
+  background-color:rgba(209, 240, 225, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -6721,6 +6721,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
+  background-color:rgba(255, 255, 255, 1);
   background-image:none;
 }
 #u541_state0_content {
@@ -8639,38 +8640,6 @@
   transform:rotate(45deg);
 }
 #u595_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u596_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:20px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(153, 153, 153, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u596 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:20px;
-  height:20px;
-}
-#u596_text {
   border-width:0px;
   position:absolute;
   left:0px;
