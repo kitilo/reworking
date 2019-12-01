@@ -2080,7 +2080,8 @@
 }
 #u426 {
   position:fixed;
-  left:0px;
+  left:50%;
+  margin-left:-180px;
   bottom:0px;
   width:360px;
   height:480px;
